@@ -7,13 +7,13 @@ class Feed extends StatelessWidget {
   List<Story> _stories = [
     Story(
         "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/49937939_648153145604353_4252391714691481600_o.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_ohc=nIn6mkAr224AX8q97Fy&_nc_ht=scontent.fdel14-1.fna&oh=943f34ba706ace543de1c17ace080e66&oe=5F5456B8",
-        "shrayrastogi1"),
+        "Your name"),
     Story(
         "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/88253772_2582948298604803_5896338413430243328_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=SxjkGUQj8NEAX-jukmc&_nc_ht=scontent.fdel14-1.fna&oh=2a1b258dcbb935aec849cb72ed67e506&oe=5F543F6B",
-        "thenontorious__one29"),
+        "Your name"),
     Story(
         "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/91503187_1059504541094140_2551112283497431040_n.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_ohc=0rzyqHphyc8AX_FnTtN&_nc_ht=scontent.fdel14-1.fna&oh=d6a5d687814ee8f4b68b0f64dc730899&oe=5F5307EF",
-        "vanshika6729"),
+        "Your name"),
     Story(
         "https://images.pexels.com/photos/1124724/pexels-photo-1124724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         "Mckenzie"),
@@ -42,33 +42,33 @@ class Feed extends StatelessWidget {
 
   List<Post> posts = [
     Post(
-        username: "shrayrastogi1",
+        username: "Your name",
         userImage:
-            "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/49937939_648153145604353_4252391714691481600_o.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_ohc=nIn6mkAr224AX8q97Fy&_nc_ht=scontent.fdel14-1.fna&oh=943f34ba706ace543de1c17ace080e66&oe=5F5456B8",
+            "Your Image Link",
         postImage:
-            "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/13344524_123010384785301_2804265050270723165_n.jpg?_nc_cat=101&_nc_sid=19026a&_nc_ohc=Gj0RSP-4B3sAX9pLkW4&_nc_ht=scontent.fdel14-1.fna&oh=4d6cc6f13c348623bb1e7eb95fc61f60&oe=5F51FB70",
-        caption: "I am Shweerrrriiii."),
+            "Your Image Link",
+        caption: "Your name."),
     Post(
-        username: "thenontorious__one29",
+        username: "Your name",
         userImage:
-            "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/88253772_2582948298604803_5896338413430243328_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=SxjkGUQj8NEAX-jukmc&_nc_ht=scontent.fdel14-1.fna&oh=2a1b258dcbb935aec849cb72ed67e506&oe=5F543F6B",
+            "Your Image Link",
         postImage:
-            "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/11260330_1614198702146439_7370108194630060956_n.jpg?_nc_cat=102&_nc_sid=174925&_nc_ohc=maVB8bp-iZYAX8D9XH7&_nc_ht=scontent.fdel14-1.fna&oh=646d793ef3856ec09c8b88e25a4ae1f8&oe=5F51F00A",
-        caption: "I am Sada thukkkk. "),
+            "Your Image Link",
+        caption: "Your name "),
     Post(
-        username: "vanshika6729",
+        username: "Your name",
         userImage:
-            "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/91503187_1059504541094140_2551112283497431040_n.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_ohc=0rzyqHphyc8AX_FnTtN&_nc_ht=scontent.fdel14-1.fna&oh=d6a5d687814ee8f4b68b0f64dc730899&oe=5F5307EF",
+            "Your Image Link",
         postImage:
-            "https://scontent.fdel14-1.fna.fbcdn.net/v/t1.0-9/35265691_602690706775528_6508350452583628800_o.jpg?_nc_cat=104&_nc_sid=174925&_nc_ohc=P-tUF3JYTREAX97Vni4&_nc_ht=scontent.fdel14-1.fna&oh=df6708009cc8ce20f0f55209dbb15f71&oe=5F530543",
-        caption: "I am Veeeeuuuunnssikka."),
+            "Your Image Link",
+        caption: "Your name"),
     Post(
-        username: "Ishita29",
+        username: "Your name",
         userImage:
             "https://s3.amazonaws.com/uifaces/faces/twitter/vinciarts/128.jpg",
         postImage:
             "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        caption: "I am Issssiiiitttaa."),
+        caption: "Your name."),
     Post(
         username: "Henry",
         userImage:
@@ -77,14 +77,14 @@ class Feed extends StatelessWidget {
             "https://images.pexels.com/photos/247298/pexels-photo-247298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         caption: ""),
     Post(
-        username: "Kidds",
+        username: "Your name",
         userImage:
             "https://s3.amazonaws.com/uifaces/faces/twitter/areus/128.jpg",
         postImage:
             "https://images.pexels.com/photos/169191/pexels-photo-169191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         caption: ""),
     Post(
-        username: "manjeet",
+        username: "Your namet",
         userImage:
             "https://s3.amazonaws.com/uifaces/faces/twitter/oskarlevinson/128.jpg",
         postImage:
